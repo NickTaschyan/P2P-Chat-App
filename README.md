@@ -14,4 +14,4 @@ If you are on a windows machine, again place all the existing .java in a directo
 
 # Demo 
 
-![P2P Chat App - Animated gif demo](P2P-Chat-App/Demo GIF/P2P Chat Application.gif)
+![P2P Chat App - Animated gif demo](Demo/ChatApp.gif)
