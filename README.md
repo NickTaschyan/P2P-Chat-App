@@ -13,5 +13,7 @@ Download the necessary files and place them in your desired directory, then on t
 If you are on a windows machine, again place all the existing .java in a directory of your choice and open up windows powershell. With powershell navigate to the directory that contains the .java files and type "javac chat.java ClientThread.java ListeningThread.java ServerThread.java", if this doesn't work then you don't have the right java jdk files to run commands like this in powershell and you should enable those in the system enviornment. If this compiles successfully, then you should notice a bunch of .class files being generated. If it compiled successfully, you can begin the chat app by typing "java chat XXXX" where XXXX is the port you desire to host the server. If it doesn't compile I reccomend compiling the program in your IDE and then just locating the .class files to put in the project directory. 
 
 # Demo 
+Click to enlarge
 
 ![P2P Chat App - Animated gif demo](Demo/ChatApp.gif)
+
